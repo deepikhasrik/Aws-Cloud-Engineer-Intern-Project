@@ -2,8 +2,8 @@
 
 ## Tools & Technologies: 
 - CI/CD: GitHub 
-- Cloud: AWS (EC2, VPC, IAM, Route53, S3, RDS) 
-- Containers: Docker, Kubernetes (Amazon EKS)
+- Cloud: AWS (EC2, VPC, IAM, Route53, S3) 
+- Containers: Docker, (Amazon EKS)
 - OS: Linux (Ubuntu/CentOS)
 - Monitoring: CloudWatch 
 
